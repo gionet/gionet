@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning CS through self-learning
 - 💞️ I’m looking to collaborate on ??? idk at the moment...
-- 📫 You can reach me at pzzxc9@gmail.com
+- 📫 You can reach me at pang9.work@gmail.com
 
 <!---
 gionet/gionet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
