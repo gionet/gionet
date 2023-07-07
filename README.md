@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gionet
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Software Development through self-learning
+- 🌱 I am currently engaged in self-learning to enhance my skills in Software Development.
 - 💞️ I’m looking for Software Developer roles
 - 📫 You can reach me at pang9.work@gmail.com
 
